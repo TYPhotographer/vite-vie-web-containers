@@ -10,11 +10,13 @@
   },
   "dependencies": {
     "@webcontainer/api": "^1.0.2",
+    "url": "^0.11.0",
     "vue": "^3.2.45",
     "xterm": "^5.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.59.2",
     "typescript": "^4.9.3",
     "unplugin-auto-import": "^0.15.1",
     "vite": "^4.1.0",
